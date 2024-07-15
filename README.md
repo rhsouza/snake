@@ -14,7 +14,7 @@ Nas horas vagas, sou gamer, maratonista de séries e aos finais de semana, cicli
 - **Dashboards:** Power BI, Metabase
 - **Automação de Processos:** Python, R, Excel
 - **Front-end:** HTML, CSS, JavaScript, Bootstrap
-- **Versionamento:** GitHub (nível básico)
+- **Versionamento:** GitHub (mediano rs)
 
 ## 🛠️ Ferramentas e Tecnologias
 

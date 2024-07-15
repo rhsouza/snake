@@ -1,8 +1,7 @@
 # Olá, eu sou Raul! 👋
 
-Meu perfil é solucionador e comunicativo, gosto de ambiente descontraído, assumindo responsabilidades e liderando projetos. 
-Adoro desafios que exijam lógica e planejamento.
-Atuo com projetos envolvendo dados desde 2015.
+Meu perfil é solucionador e comunicativo (: <br>
+Adoro desafios que exijam lógica e planejamento e atuo com projetos envolvendo dados desde 2015.
 
 Nas horas vagas, sou gamer, maratonista de séries e aos finais de semana, ciclista, bora pra uma trilha?
 

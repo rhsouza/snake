@@ -5,7 +5,9 @@ Adoro desafios que exijam lógica e planejamento e atuo com projetos envolvendo 
 
 Nas horas vagas, sou gamer, maratonista de séries e aos finais de semana, ciclista, bora pra uma trilha?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raul-henrique-de-souza)
+<img align="right" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" />
+<br>
+
 
 ## 🚀 Habilidades
 
